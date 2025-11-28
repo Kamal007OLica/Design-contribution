@@ -28,7 +28,8 @@ https://github.com/user-attachments/assets/1b45fafa-98af-437b-a091-c87950ff49e3
 
 DeepSeek is an advanced AI-powered content search and discovery tool designed to help users find precise information quickly within vast datasets. It leverages natural language processing and machine learning to understand search intent, enabling deep semantic search across documents, websites, and multimedia content. DeepSeek enhances productivity by offering fast, relevant results with context-aware filtering, making it ideal for research, knowledge management, and data-driven decision-making workflows.
 
-<img width="195" height="41" alt="image" src="https://github.com/user-attachments/assets/543fc3a5-f19a-4b7a-ae8e-eb91e72e9ce6" />
+<img width="195" height="41" alt="image" src="https://github.com/user-attachments/assets/910669d3-de28-40ac-bc94-f63447495589" />
+
 
 
 ### DeepSeek AI
