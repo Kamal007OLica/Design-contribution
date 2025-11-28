@@ -1,5 +1,6 @@
 # Design-contribution
 Few open source contributions to Penpot—the leading Figma alternative built with SVG/CSS for designer-developer collaboration. Focuses on UX workflows, scaling features, and visual consistency across design tools and AI platforms. Demonstrates production-level UI/UX expertise for design systems and prototyping.
+<img width="1200" height="640" alt="image" src="https://github.com/user-attachments/assets/4c1267bd-da2f-4ed1-8aa2-669fc12bb7e2" />
 
 
 ## Open Source Contributions
@@ -21,3 +22,6 @@ Active contributor to design tools and AI platforms, focusing on UX improvements
 ### Other Projects
 - [PostHog: Visual Inconsistency in Icon Stroke](https://github.com/PostHog/posthog/issues/29694) [web:24]
 - [Codecademy: Add Contextual Explanation for CSS Color](https://github.com/Codecademy/docs/issues/6309) [web:24]
+
+
+# Open Source Contributions
