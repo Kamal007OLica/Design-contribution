@@ -23,5 +23,4 @@ Active contributor to design tools and AI platforms, focusing on UX improvements
 - [PostHog: Visual Inconsistency in Icon Stroke](https://github.com/PostHog/posthog/issues/29694) [web:24]
 - [Codecademy: Add Contextual Explanation for CSS Color](https://github.com/Codecademy/docs/issues/6309) [web:24]
 
-
-# Open Source Contributions
+---
